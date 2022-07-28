@@ -1,2 +1,2 @@
-# Python-Soruce-code-
-Python Source code for beginners
+# GoLang-Soruce-code-
+GoLang Source code for beginners
